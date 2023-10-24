@@ -18,7 +18,7 @@ Projeto de links de direconamento para ultilizar no link da BIO. <br/>
 
 
 <p align="center">
-  <img alt="projeto wdLinks" src="./imgs/myperfil.png" width= "100%">
+  <img alt="projeto wdLinks" src="./imgs/myperfil (1).png" width= "100%">
 </p>
 
 ## 🚀 Tecnologias
